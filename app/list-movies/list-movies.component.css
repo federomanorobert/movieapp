@@ -1,0 +1,34 @@
+*{
+    margin:auto;
+    padding:auto;
+}
+.card-img-top{
+    width:70%;
+    padding-top:10px;
+}
+
+.card{
+    margin-top:30px;
+    margin-left:0;
+    margin-right:0;
+}
+.row{
+    width:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.center-body{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.fill{
+    width:100%;
+}
